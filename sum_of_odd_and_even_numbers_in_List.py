@@ -8,7 +8,7 @@ for i in lst:
         even_sum = even_sum+i
     else:
         odd_sum = odd_sum+i
-
+print('*******')
 print("The even number sum is:", even_sum)
 print("The odd number sum is:", odd_sum)
 
